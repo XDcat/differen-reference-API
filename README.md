@@ -8,6 +8,7 @@
 ## python
 
 1. python 内置文档，在命令行中输入 `python -m pydoc -b`，在其中可以找到您已经安装到的包。
+https://docs.python.org/zh-cn/3/index.html
 
    * -m，以命令行运行 pydoc
    * -b，用浏览器打开
